@@ -4,3 +4,5 @@ __pycache__/
 creds.py
 db.json
 test.py
+#bot_api.py
+logs/bot_logger.log
